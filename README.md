@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there!👋
 
-<!--
-**Mujeeb-Siddique/Mujeeb-Siddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mujeeb, a full-stack developer based in Pakistan.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my mind, chances are I'll build it and ship it.
+
+My main tech stack is HTML, CSS, MUI, Framer Motion, JavaScript, React, Node.js, Express.js, and MongoDB. 
+
+I've got a bunch of pinned projects, but my favorite is Tuneeb.
+
+I've built over 10 repos, but privately... it's more than 10 at this point.
+
+If you want to see how I do it and get things done, [my LinkedIn](https://www.linkedin.com/in/mujeeb-siddique-18782632b) is available here.
+
+## Fun Facts:
+
+- I am an INTJ
+- I love Coffee and Tea
+- I am a felinophile
+- Death Note is my favorite anime
+- **Hobbies:** anime, video games, gym, books, coding, skating
+
